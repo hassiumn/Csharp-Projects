@@ -1,4 +1,4 @@
-# C# documentation in ukrainian 
+# C# learning 
 
 
 ### 1.1 Basics
@@ -12,6 +12,6 @@
 ***WriteLine*** - метод
 ***.*** - member access operator (іншими словами навігатор)
 
-==//це коментарій ==
+`//це коментарій`
 
 
