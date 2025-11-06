@@ -18,4 +18,4 @@
 
 `//це коментарій`
 
-
+### Data types and operands 
