@@ -18,4 +18,5 @@
 
 `//це коментарій`
 
-### Data types and operands 
+### Data types and operands
+---
